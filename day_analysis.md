@@ -5,5 +5,5 @@
 ## 一つの場所における曜日の変化
 
 <div align="center>
-<img src="https://github.com/bamboo51/people_flow/blob/main/graph_by_day/p004_6.svg"></img>
+<img src="./graph_by_day/p004_6.svg"></img>
 </div>
