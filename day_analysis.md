@@ -4,6 +4,6 @@
 
 ## 一つの場所における曜日の変化
 
-<div align="center>
-<img src="./graph_by_day/p004_6.svg"></img>
+<div align="center">
+<img src="graph_by_day/p004_6.svg"></img>
 </div>
