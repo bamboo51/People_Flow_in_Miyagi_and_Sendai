@@ -100,3 +100,38 @@
 ---
 
 ## 一週間分の曜日と人数の関係を時間帯に分析する
+
+**1週目**
+<div align="center">
+  <img src="graph_by_week/p004_week_2022-05-29.svg"></img>
+</div>
+<div align="center">
+  <img src="correlation_graph/p004.csv_from_2022-05-29_heatmap.svg"></img>
+</div>
+
+**2週目**
+<div align="center">
+<img src="graph_by_week/p004_week_2022-06-05.svg"></img>
+</div>
+<div align="center">
+  <img src="correlation_graph/p004.csv_from_2022-06-05_heatmap.svg"></img>
+</div>
+
+**3週目**
+<div align="center">
+<img src="graph_by_week/p004_week_2022-06-12.svg"></img>
+</div>
+<div align="center">
+  <img src="correlation_graph/p004.csv_from_2022-06-12_heatmap.svg"></img>
+</div>
+
+**4週目**
+<div align="center">
+<img src="graph_by_week/p004_week_2022-06-19.svg"></img>
+</div>
+<div align="center">
+  <img src="correlation_graph/p004.csv_from_2022-06-19_heatmap.svg"></img>
+</div>
+
+### 解説
+以上の図により、それぞれの中央値を求め、相関係数を求めた。それぞれの曜日は、他の曜日に対して、相関があるかどうかを求めらえた。この相関は、どの曜日が他の日と比べて、違いがあるかどうかを表す。これらを基づいて、在庫の数を管理できる。例えば、相関がほぼ1の日は大体同じの在庫を準備する等である。
