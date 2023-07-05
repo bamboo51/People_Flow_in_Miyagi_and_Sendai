@@ -6,7 +6,7 @@
 ## 宮城県における人流データの可視化の例
 
 <div align="center">
-<img src="./2019_00.gif" width=50%></div>
+<img src="./2019_00.gif" width=70%></div>
 
 ## 仙台市における人流データの分析
 
