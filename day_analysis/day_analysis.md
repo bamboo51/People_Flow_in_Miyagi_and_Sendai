@@ -100,3 +100,43 @@
 ---
 
 ## 一週間分の曜日と人数の関係を時間帯に分析する
+
+**1週目**
+<div align="center">
+<img src="graph_by_week/p004_weeek_2022-05-15.svg"></img>
+</div>
+
+**2週目**
+<div align="center">
+<img src="graph_by_week/p004_weeek_2022-05-22.svg"></img>
+</div>
+
+**3週目**
+<div align="center">
+<img src="graph_by_week/p004_weeek_2022-05-29.svg"></img>
+</div>
+
+**4週目**
+<div align="center">
+<img src="graph_by_week/p004_weeek_2022-06-05.svg"></img>
+</div>
+
+**5週目**
+<div align="center">
+<img src="graph_by_week/p004_weeek_2022-06-12.svg"></img>
+</div>
+
+**6週目**
+<div align="center">
+<img src="graph_by_week/p004_weeek_2022-06-19.svg"></img>
+</div>
+
+**7週目**
+<div align="center">
+<img src="graph_by_week/p004_weeek_2022-06-26.svg"></img>
+</div>
+
+**8週目**
+<div align="center">
+<img src="graph_by_week/p004_weeek_2022-07-03.svg"></img>
+</div>
