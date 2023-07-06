@@ -15,6 +15,7 @@
 1日の人数の変化をグラフで表示する。2022年6月の水曜日の平均をとったデータを使用している。
 ### 1. キンコーズ
 <div align="center">
+  background-color : #ff0000;
   <img src="img/kinkozu.svg" alt="キンコーズの人流変化" width=60%>
 </div>
 
