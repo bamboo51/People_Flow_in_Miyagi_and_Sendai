@@ -17,7 +17,9 @@
 <div align="center">
   <img src="img/kinkozu.svg" alt="キンコーズの人流変化" width=60%>
 </div>
-body{background-color : #ff0000;}
+<style>
+  body{background-color:#ffffff;}
+</style>
 
 ### 2. 阿部蒲鉾店
 <div align="center">
