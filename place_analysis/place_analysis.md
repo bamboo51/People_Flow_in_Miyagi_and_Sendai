@@ -7,6 +7,6 @@
 
 ## 観測地点
 対象地点は、以下の画像の場所に位置している。
-<div style="text-align:eter">
+<div style="text-align:ceter">
 <img src="img/map.jpg" alt="地図" width=80%>
 </div>
