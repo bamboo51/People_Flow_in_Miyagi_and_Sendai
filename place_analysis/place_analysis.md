@@ -25,7 +25,7 @@
 
 ### 3. 末広庵
 <div align="center">
-  <img scr="img/suehiroan.svg" alt="末広庵の人流変化" width=60%>
+  <img src="img/suehiroan.svg" alt="末広庵の人流変化" width=60%>
 </div>
 
 ### 4. ソフトバンク仙台クリスロード店
