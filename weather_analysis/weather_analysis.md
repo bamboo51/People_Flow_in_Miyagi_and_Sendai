@@ -59,4 +59,4 @@
 
 ## 出典
 
-「仙台（宮城県)　2022年6月9日　（１時間ごとの値）」(気象庁)(https://www.jma.go.jp/jma/index.html)
+「仙台（宮城県)　2022年6月9日　（１時間ごとの値）」(気象庁)(https://www.data.jma.go.jp/obd/stats/etrn/view/hourly_s1.php?prec_no=34&block_no=47590&year=2022&month=6&day=9&view=)
