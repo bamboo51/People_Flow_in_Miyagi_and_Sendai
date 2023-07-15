@@ -8,7 +8,7 @@
 
 [人流と日付・曜日の関係(日編)](./day_analysis/day_analysis.md)
 
-[人流と日付・曜日の関係(月編)](./day_analysis/month_analysis.md) 
+[人流の１か月分](./day_analysis/month_analysis.md) 
 
 [人流と場所の関係](./place_analysis/place_analysis.md)  
 
