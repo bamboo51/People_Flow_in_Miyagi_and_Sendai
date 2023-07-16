@@ -11,13 +11,17 @@
 
 ## 仙台市内の滞在人数のグラフ
 <div align="center">
-  <img src="img/bar_mdp_SendaiAll.svg" width=80%">
+  <img src="img/bar_mdp_SendaiAll.svg">
 </div>
 ## 仙台市への人の流入量のグラフ
 ### 全区分比較
-<img src="./img/line_from_SendaiAll_all.svg">
+<div align="center">
+  <img src="./img/line_from_SendaiAll_all.svg">
+</div>
 ### 県内のみの比較
-<img src="./img/line_from_SendaiAll_CityPref.svg">
+<div align="center">
+  <img src="./img/line_from_SendaiAll_CityPref.svg">
+</div>
 
 ### データから見えること
 - 仙台市8月で減る→夏休みで県外に旅行。お盆で帰省。宮城には来るが松島や三陸など仙台市外の観光地に行く。
