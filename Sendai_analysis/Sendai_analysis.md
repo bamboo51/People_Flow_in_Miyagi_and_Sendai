@@ -11,16 +11,16 @@
 
 ## 仙台市内の滞在人数のグラフ
 <div align="center">
-  <img src="img/bar_mdp_SendaiAll.svg" width=60%>
+  <img src="img/bar_mdp_SendaiAll.svg" width=80%>
 </div>
 ## 仙台市への人の流入量のグラフ
 ### 全区分比較
 <div align="center">
-  <img src="./img/line_from_SendaiAll_all.svg" width=60%>
+  <img src="./img/line_from_SendaiAll_all.svg" width=80%>
 </div>
 ### 県内のみの比較
 <div align="center">
-  <img src="./img/line_from_SendaiAll_CityPref.svg" width=60%>
+  <img src="./img/line_from_SendaiAll_CityPref.svg" width=80%>
 </div>
 
 ### データから見えること
