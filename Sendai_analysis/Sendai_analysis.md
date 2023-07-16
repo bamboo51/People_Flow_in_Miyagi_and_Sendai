@@ -10,7 +10,7 @@
 仙台市の平日昼間のデータを使用。また、人の流入量は仙台市内、市外の宮城県内、東北地方の県外、他地方の県外の4区分である。どちらのデータも平均を使用している。
 
 ## 仙台市内の滞在人数のグラフ
-<img scr="./img/bar_mdp_SendaiAll.svg">
+<img src="img/bar_mdp_SendaiAll.svg">
 ## 仙台市への人の流入量のグラフ
 ### 全区分比較
 <img src="./img/line_from_SendaiAll_all.svg">
