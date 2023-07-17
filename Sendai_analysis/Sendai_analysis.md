@@ -11,7 +11,7 @@
 
 ## 仙台市内の滞在人数のグラフ
 <div align="center">
-  <img src="img/bar_mdp_SendaiAll.svg" width=80%>
+  <img src="./img/bar_mdp_SendaiAll.svg" width=80%>
 </div>
 
 ## 仙台市への人の流入量のグラフ
@@ -45,4 +45,7 @@
 
 #### 9月～11月は県外からの人の流入量が減る
 9月～11月は台風が多く発生し、天気が安定しないことが理由だと考える。特に、2019年10月には大型の台風19号により甚大な被害が発生した。県外のみの流入量の比較グラフを見るとこの時期で減少している。9月に減少するのは夏休みも終わり、観光シーズンが一段落するからだろう。
-<img src="typhoons.png">
+<div align="center">
+  <img src="./img/typhoons.png" width=80%>
+</div>
+2019年～2021年の台風の発生数。データは気象庁の台風の発生数[協定世界時基準](https://www.data.jma.go.jp/fcd/yoho/typhoon/statistics/generation/generation.html)より。
