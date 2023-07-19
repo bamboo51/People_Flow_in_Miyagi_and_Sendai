@@ -30,7 +30,7 @@
 
 **データの期間内**
 <div align="center">
-  <img src="graph_by_month/p003_all.svg">
+  <img src="graph_by_month/p003_all_add.svg">
 </div>
 
 **解説**
@@ -91,7 +91,7 @@
 
 **データの期間内**
 <div align="center">
-  <img src="graph_by_month/p017_all.svg">
+  <img src="graph_by_month/p017_all_add.svg">
 </div>
 
 **解説**
@@ -137,7 +137,7 @@
 
 **データの期間内**
 <div align="center">
-  <img src="graph_by_month/p021_all.svg">
+  <img src="graph_by_month/p021_all_add.svg">
 </div>
 
 **解説**
