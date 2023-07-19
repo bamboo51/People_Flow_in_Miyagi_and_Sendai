@@ -49,3 +49,4 @@
   <img src="./img/typhoons.png" width=60%>
 </div>
 2019年～2021年の台風の発生数。データは気象庁の台風の発生数[協定世界時基準](https://www.data.jma.go.jp/fcd/yoho/typhoon/statistics/generation/generation.html )より。
+ 
